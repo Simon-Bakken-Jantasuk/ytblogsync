@@ -11,3 +11,4 @@ Instead of doing this manually– I then created a bash script instead. It simpl
 * CLI tool functionality 
 * Nonpredefined variables
 * Error handling
+* Multiple blog posts
